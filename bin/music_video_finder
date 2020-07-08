@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+# run by typing './bin/music_video_finder'
+
+puts "Loading Music Video Finder"
+require_relative '../config/environment.rb'
+
+startup_cli = Cli.new

@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    music_video_finder (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (12.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  music_video_finder!
+  rake (~> 12.0)
+
+BUNDLED WITH
+   2.1.4
